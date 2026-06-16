@@ -78,7 +78,4 @@ To contribute to these apps:
 
 By using this software you agree to running AI made scripts and images which have some errors. All scripts and apps are under the same license.
 
-
-<div align="center">
- [Copyright](https://github.com/sullydux/Sullybase-Python-Apps/blob/main/LICENSE.txt) © 2026 Sullydux (GitHub). All rights reserved.
-</div>
+[Copyright](https://github.com/sullydux/Sullybase-Python-Apps/blob/main/LICENSE.txt) © 2026 Sullydux (GitHub). All rights reserved.
