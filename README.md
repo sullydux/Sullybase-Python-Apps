@@ -80,5 +80,5 @@ By using this software you agree to running AI made scripts and images which hav
 
 
 <div align="center">
-[Copyright](https://github.com/sullydux/Sullybase-Python-Apps/blob/main/LICENSE.txt) © 2026 Sullydux (GitHub). All rights reserved.
+ [Copyright](https://github.com/sullydux/Sullybase-Python-Apps/blob/main/LICENSE.txt) © 2026 Sullydux (GitHub). All rights reserved.
 </div>
