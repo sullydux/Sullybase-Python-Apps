@@ -49,6 +49,11 @@ This is an application where users can input passwords and it will rate them on 
 
 This is an application where users can set a time and date and have a countdown or countup in their menubar. There is also an alarm option which alarms users at T+0 seconds. It is easy to use.
 
+---
+
+## Unit Converter
+
+Converts units and currencies.
 
 ---
 
