@@ -1,6 +1,7 @@
 # Sullybase Python Apps
 
 ## A collection of my smaller python apps.
+## All made by AI
 
 
 Click the app name to go to the app download.
